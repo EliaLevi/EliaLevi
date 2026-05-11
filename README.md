@@ -3,9 +3,9 @@
 ## 🎯 About Me
 
 * 🌱 Currently learning: **Software Engineering, 2nd Year**
-* 💻 Passionate about building scalable and user-friendly applications.
+* 💻 Passionate about **Software Development** and exploring the world of **Embedded Systems**.
 * 🚀 Always excited about new technologies and solving complex problems. 
-* 📫 Reach me at: [Contact me on LinkedIn](https://www.linkedin.com/in/elia-levi-8b3718374?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+* 📫 Reach me at: [ LinkedIn](https://www.linkedin.com/in/elia-levi-8b3718374?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ---
 
@@ -26,7 +26,9 @@
 
 * **Tools:**
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
+## 📊 My GitHub Journey
 
+![Elia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EliaLevi&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliaLevi&layout=compact&theme=dark)
