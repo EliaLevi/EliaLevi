@@ -25,14 +25,13 @@
 
 * **Tools & Frameworks:** <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" height="20">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" height="20">
-  <img src="https://img.shields.io/badge/raylib-white?style=flat&logo=raylib&logoColor=black" alt="Raylib" height="20">
+
+---
 
 ---
 
 ## 📊 My GitHub Journey
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EliaLevi&show_icons=true&theme=dark" alt="Elia's Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliaLevi&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+![GitHub Metrics](https://metrics.lecoq.io/EliaLevi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.recent.load=300&languages.recent.days=14&languages.toggle=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia/Jerusalem)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EliaLevi&theme=react-dark)
