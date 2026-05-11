@@ -28,16 +28,7 @@
 
 ---
 
----
-
----
-
-## 📊 My GitHub Journey
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/EliaLevi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&languages=1&languages.sections=most-used&languages.details=percentage&config.timezone=Asia%2FJerusalem" alt="GitHub Metrics" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EliaLevi&theme=react-dark" alt="Activity Graph" width="100%">
+## 📊 GitHub Activity
+<p align="left">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EliaLevi&theme=react-dark&hide_border=true" width="100%" />
 </p>
